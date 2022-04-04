@@ -1,0 +1,17 @@
+p, .no3{
+    background-color: rgba(255, 192, 203, 0.4);
+}
+
+.no3{
+    font-size: 18px;
+}
+
+#no2{
+    color: blue;
+    font-size: 25px;
+}
+
+#no4{
+    font-weight: bold;
+    background-color: rgba(0, 128, 0, 0.5);
+}

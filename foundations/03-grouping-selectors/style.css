@@ -1,0 +1,17 @@
+* {
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+button{
+    font-size: 28px;
+}
+
+#aa{
+    color: white;
+    background-color: black;
+}
+
+#bb{
+    color: black;
+    background-color: yellow;
+}
